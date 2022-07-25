@@ -1,17 +1,17 @@
-filename,original_file,animal_name,call_type,duration_s
-Chirp.wav,See album,Download,,3.30925170068027
-Chirp1.wav,See album,Download,,3.08517006802721
-Chut5.wav,See album,Mama + 4 babies,Chut,1.0650566893424
-Chut8.wav,See album,Mama + 6 babies,Chut ,3.10965986394558
-Other4.wav,See album,Stanley,Other,0.45702947845805
-Other6.wav,See album,Mama + 6 babies,Babie call,2.49111111111111
-Purr1.wav,See album,Mama+6 babies,Purr,0.800544217687075
-Purr2.wav,See album,Mama + 6 babies,Purr,0.676938775510204
-Rumble22.wav,See album, GP51 Stanley + GP50 Borris,Rumble,2.42263038548753
-Rumble29.wav,See album, GP59 Sophia + GP60 YingYang,Rumble,2.41390022675737
-Teeth Chatter1.wav,See album,Stanley + Stud ,Teeth Chatter,1.72916099773243
-Teeth Chatter3.wav,See album,Stanley + Stud,Teeth Chatter,2.04954648526077
-Wheek31.wav,See album,Stanley,Wheek,3.48859410430839
-Wheek39.wav,See album,Sophia + YinYang,Wheek,2.17714285714286
-Whine 5.wav,See album,Mama + 6 babies,Whine,2.77136054421769
-Whine3.wav,See album,GP51 Stanley + GP50 Borris,Whine,3.50199546485261
+filename,original_file,animal_name,animal_sex,call_type,duration_s
+Chirp.wav,See album,Download,n/a,,3.30925170068027
+Chirp1.wav,See album,Download,n/a,,3.08517006802721
+Chut5.wav,See album,Mama + 4 babies,Female,Chut,1.0650566893424
+Chut8.wav,See album,Mama + 6 babies,Female,Chut ,3.10965986394558
+Other4.wav,See album,Stanley,Male,Other,0.45702947845805
+Other6.wav,See album,Mama + 6 babies,Female,Babie call,2.49111111111111
+Purr1.wav,See album,Mama+6 babies,Female,Purr,0.800544217687075
+Purr2.wav,See album,Mama + 6 babies,Female,Purr,0.676938775510204
+Rumble22.wav,See album, GP51 Stanley + GP50 Borris,Male,Rumble,2.42263038548753
+Rumble29.wav,See album, GP59 Sophia + GP60 YingYang,Female,Rumble,2.41390022675737
+Teeth Chatter1.wav,See album,Stanley + Stud ,Male,Teeth Chatter,1.72916099773243
+Teeth Chatter3.wav,See album,Stanley + Stud,Male,Teeth Chatter,2.04954648526077
+Wheek31.wav,See album,Stanley,Male,Wheek,3.48859410430839
+Wheek39.wav,See album,Sophia + YinYang,Female,Wheek,2.17714285714286
+Whine 5.wav,See album,Mama + 6 babies,Female,Whine,2.77136054421769
+Whine3.wav,See album,GP51 Stanley + GP50 Borris,Male,Whine,3.50199546485261
